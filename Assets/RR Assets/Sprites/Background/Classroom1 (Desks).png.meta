@@ -1,0 +1,1136 @@
+fileFormatVersion: 2
+guid: 102a6e9c5f783a942b5f58dda5c62475
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3432764175337719922
+    second: Classroom1 (Desks)_0
+  - first:
+      213: -6646083383467963909
+    second: Classroom1 (Desks)_1
+  - first:
+      213: 7880774834976965528
+    second: Classroom1 (Desks)_0
+  - first:
+      213: -8059043321234162815
+    second: Classroom1 (Desks)_1
+  - first:
+      213: -1866205866941683768
+    second: Classroom1 (Desks)_2
+  - first:
+      213: 311280336052285073
+    second: Classroom1 (Desks)_3
+  - first:
+      213: -3991790219231156402
+    second: Classroom1 (Desks)_4
+  - first:
+      213: -5411903947386508898
+    second: Classroom1 (Desks)_5
+  - first:
+      213: 1268825101436763339
+    second: Classroom1 (Desks)_6
+  - first:
+      213: 2999102940746697801
+    second: Classroom1 (Desks)_7
+  - first:
+      213: 3337350474749739884
+    second: Classroom1 (Desks)_8
+  - first:
+      213: -816906067265932361
+    second: Classroom1 (Desks)_9
+  - first:
+      213: -5469504995579574351
+    second: Classroom1 (Desks)_10
+  - first:
+      213: -8901706352546034742
+    second: Classroom1 (Desks)_11
+  - first:
+      213: -3130196758726023455
+    second: Classroom1 (Desks)_12
+  - first:
+      213: 2821997649072901032
+    second: Classroom1 (Desks)_13
+  - first:
+      213: 3716198168256104828
+    second: Classroom1 (Desks)_14
+  - first:
+      213: -4020953927383090272
+    second: Classroom1 (Desks)_15
+  - first:
+      213: -1137095653557761319
+    second: Classroom1 (Desks)_16
+  - first:
+      213: -4577830066309453883
+    second: Classroom1 (Desks)_17
+  - first:
+      213: -1685013105809812160
+    second: Classroom1 (Desks)_18
+  - first:
+      213: -8048256955512064243
+    second: Classroom1 (Desks)_19
+  - first:
+      213: 264705159431100239
+    second: Classroom1 (Desks)_20
+  - first:
+      213: -1550714442878593850
+    second: Classroom1 (Desks)_21
+  - first:
+      213: 2690859407116630581
+    second: Classroom1 (Desks)_22
+  - first:
+      213: -4619670100366711773
+    second: Classroom1 (Desks)_23
+  - first:
+      213: -4157858362761047066
+    second: Classroom1 (Desks)_24
+  - first:
+      213: -4198186603106409566
+    second: Classroom1 (Desks)_25
+  - first:
+      213: -7503884697474033325
+    second: Classroom1 (Desks)_26
+  - first:
+      213: 1316808757593969105
+    second: Classroom1 (Desks)_27
+  - first:
+      213: -3381734938253531845
+    second: Classroom1 (Desks)_28
+  - first:
+      213: 4789017605911618837
+    second: Classroom1 (Desks)_29
+  - first:
+      213: 7728460110005318113
+    second: Classroom1 (Desks)_30
+  - first:
+      213: 59407453761874078
+    second: Classroom1 (Desks)_31
+  - first:
+      213: -5902275670731005522
+    second: Classroom1 (Desks)_32
+  - first:
+      213: -2924411272699367989
+    second: Classroom1 (Desks)_33
+  - first:
+      213: -5034032164260423907
+    second: Classroom1 (Desks)_34
+  - first:
+      213: -1481809323755999498
+    second: Classroom1 (Desks)_35
+  - first:
+      213: 7455977378800631809
+    second: Classroom1 (Desks)_36
+  - first:
+      213: -7489463223913489395
+    second: Classroom1 (Desks)_37
+  - first:
+      213: 1567323827092701964
+    second: Classroom1 (Desks)_38
+  - first:
+      213: -1177893470633638501
+    second: Classroom1 (Desks)_39
+  - first:
+      213: 4474372027033978834
+    second: Classroom1 (Desks)_40
+  - first:
+      213: -568924452403802494
+    second: Classroom1 (Desks)_41
+  - first:
+      213: -6963376376718328732
+    second: Classroom1 (Desks)_42
+  - first:
+      213: -6597932013161240135
+    second: Classroom1 (Desks)_43
+  - first:
+      213: 7057217334439430665
+    second: Classroom1 (Desks)_44
+  - first:
+      213: -5196192271722151651
+    second: Classroom1 (Desks)_45
+  - first:
+      213: -7072744455509939956
+    second: Classroom1 (Desks)_46
+  - first:
+      213: -1582799874444283779
+    second: Classroom1 (Desks)_47
+  - first:
+      213: 5267017215184737685
+    second: Classroom1 (Desks)_48
+  - first:
+      213: 1090645183098469283
+    second: Classroom1 (Desks)_49
+  - first:
+      213: 4970463498516805659
+    second: Classroom1 (Desks)_50
+  - first:
+      213: 8472947003983760467
+    second: Classroom1 (Desks)_51
+  - first:
+      213: 5166687492173055694
+    second: Classroom1 (Desks)_52
+  - first:
+      213: 6517149091687435733
+    second: Classroom1 (Desks)_53
+  - first:
+      213: -3905842402054941287
+    second: Classroom1 (Desks)_54
+  - first:
+      213: 4255718026166444273
+    second: Classroom1 (Desks)_55
+  - first:
+      213: -8363751426739632431
+    second: Classroom1 (Desks)_56
+  - first:
+      213: -7775388901085866030
+    second: Classroom1 (Desks)_57
+  - first:
+      213: -2838641041453985218
+    second: Classroom1 (Desks)_58
+  - first:
+      213: 1453321662394420490
+    second: Classroom1 (Desks)_59
+  - first:
+      213: 2094193635344416334
+    second: Classroom1 (Desks)_60
+  - first:
+      213: 954347254632925413
+    second: Classroom1 (Desks)_61
+  - first:
+      213: -3039123511453795711
+    second: Classroom1 (Desks)_62
+  - first:
+      213: -1032994325617402780
+    second: Classroom1 (Desks)_63
+  - first:
+      213: 8143618371392512145
+    second: Classroom1 (Desks)_64
+  - first:
+      213: -8940072001665941145
+    second: Classroom1 (Desks)_65
+  - first:
+      213: 3262087298392151689
+    second: Classroom1 (Desks)_66
+  - first:
+      213: 6347789586642703925
+    second: Classroom1 (Desks)_67
+  - first:
+      213: 6697389003747772836
+    second: Classroom1 (Desks)_68
+  - first:
+      213: -1558521120198969941
+    second: Classroom1 (Desks)_69
+  - first:
+      213: 6702808334199172990
+    second: Classroom1 (Desks)_70
+  - first:
+      213: -332701637164775845
+    second: Classroom1 (Desks)_71
+  - first:
+      213: -8562853606117834727
+    second: Classroom1 (Desks)_72
+  - first:
+      213: -7862856880738004189
+    second: Classroom1 (Desks)_73
+  - first:
+      213: -2254792896494297521
+    second: Classroom1 (Desks)_74
+  - first:
+      213: 767582972806932439
+    second: Classroom1 (Desks)_75
+  - first:
+      213: 1921697561111712866
+    second: Classroom1 (Desks)_76
+  - first:
+      213: -3350370574956303851
+    second: Classroom1 (Desks)_77
+  - first:
+      213: 448623196471196405
+    second: Classroom1 (Desks)_78
+  - first:
+      213: -948317147639301560
+    second: Classroom1 (Desks)_79
+  - first:
+      213: -7639853732930748993
+    second: Classroom1 (Desks)_80
+  - first:
+      213: 2932865723933538940
+    second: Classroom1 (Desks)_81
+  - first:
+      213: 3049149517876237313
+    second: Classroom1 (Desks)_82
+  - first:
+      213: 3369630549617671281
+    second: Classroom1 (Desks)_83
+  - first:
+      213: 1194536947702072754
+    second: Classroom1 (Desks)_84
+  - first:
+      213: 1410130670603981980
+    second: Classroom1 (Desks)_85
+  - first:
+      213: -2345642120024902837
+    second: Classroom1 (Desks)_86
+  - first:
+      213: 3716969612464174588
+    second: Classroom1 (Desks)_87
+  - first:
+      213: -942329962219638063
+    second: Classroom1 (Desks)_88
+  - first:
+      213: -7662315274944816783
+    second: Classroom1 (Desks)_89
+  - first:
+      213: 8685008412317695258
+    second: Classroom1 (Desks)_90
+  - first:
+      213: 1999414526827597071
+    second: Classroom1 (Desks)_91
+  - first:
+      213: -1261781939148478486
+    second: Classroom1 (Desks)_92
+  - first:
+      213: 2678131828085395388
+    second: Classroom1 (Desks)_93
+  - first:
+      213: -1970505998249900507
+    second: Classroom1 (Desks)_94
+  - first:
+      213: -2457987717410964043
+    second: Classroom1 (Desks)_95
+  - first:
+      213: 8553533214271364926
+    second: Classroom1 (Desks)_96
+  - first:
+      213: -5718419843700095287
+    second: Classroom1 (Desks)_97
+  - first:
+      213: 2174101230916042903
+    second: Classroom1 (Desks)_98
+  - first:
+      213: -2409777472214841583
+    second: Classroom1 (Desks)_99
+  - first:
+      213: -1788912733231949618
+    second: Classroom1 (Desks)_100
+  - first:
+      213: -9006595242707612088
+    second: Classroom1 (Desks)_101
+  - first:
+      213: 5190782759047931071
+    second: Classroom1 (Desks)_102
+  - first:
+      213: -5551846204158817419
+    second: Classroom1 (Desks)_103
+  - first:
+      213: -3541244404797006392
+    second: Classroom1 (Desks)_104
+  - first:
+      213: -1946844162200792884
+    second: Classroom1 (Desks)_105
+  - first:
+      213: 7696656555006259981
+    second: Classroom1 (Desks)_106
+  - first:
+      213: 2957827174823579655
+    second: Classroom1 (Desks)_107
+  - first:
+      213: 501877730424352459
+    second: Classroom1 (Desks)_108
+  - first:
+      213: -5604795434220407925
+    second: Classroom1 (Desks)_109
+  - first:
+      213: 4859221345304623227
+    second: Classroom1 (Desks)_110
+  - first:
+      213: 749082017637564651
+    second: Classroom1 (Desks)_111
+  - first:
+      213: -401052602963855807
+    second: Classroom1 (Desks)_112
+  - first:
+      213: -1676100060966681940
+    second: Classroom1 (Desks)_113
+  - first:
+      213: -472567927771422270
+    second: Classroom1 (Desks)_114
+  - first:
+      213: -7936892672253629377
+    second: Classroom1 (Desks)_115
+  - first:
+      213: 1615541315848929454
+    second: Classroom1 (Desks)_116
+  - first:
+      213: -5668286982120801580
+    second: Classroom1 (Desks)_117
+  - first:
+      213: -2178162282124089982
+    second: Classroom1 (Desks)_118
+  - first:
+      213: 7637552256738171460
+    second: Classroom1 (Desks)_119
+  - first:
+      213: 5119782978754353989
+    second: Classroom1 (Desks)_120
+  - first:
+      213: -6078076815866151849
+    second: Classroom1 (Desks)_121
+  - first:
+      213: 601103214352761065
+    second: Classroom1 (Desks)_122
+  - first:
+      213: 770035328545513260
+    second: Classroom1 (Desks)_123
+  - first:
+      213: -5695744095083943923
+    second: Classroom1 (Desks)_124
+  - first:
+      213: 8904280559856026664
+    second: Classroom1 (Desks)_125
+  - first:
+      213: 5899200450063837437
+    second: Classroom1 (Desks)_126
+  - first:
+      213: -1597808077851056538
+    second: Classroom1 (Desks)_127
+  - first:
+      213: 3451621620264438224
+    second: Classroom1 (Desks)_128
+  - first:
+      213: 3685132105466398133
+    second: Classroom1 (Desks)_129
+  - first:
+      213: 1831832690830062731
+    second: Classroom1 (Desks)_130
+  - first:
+      213: -6505508202293292549
+    second: Classroom1 (Desks)_131
+  - first:
+      213: -7197925387433954866
+    second: Classroom1 (Desks)_132
+  - first:
+      213: 5251377419506664409
+    second: Classroom1 (Desks)_133
+  - first:
+      213: 244512031740421252
+    second: Classroom1 (Desks)_134
+  - first:
+      213: 3054993610837534735
+    second: Classroom1 (Desks)_135
+  - first:
+      213: 4506524268664081132
+    second: Classroom1 (Desks)_136
+  - first:
+      213: -3898203067260050641
+    second: Classroom1 (Desks)_137
+  - first:
+      213: -1835802570604455466
+    second: Classroom1 (Desks)_138
+  - first:
+      213: -439792612714443994
+    second: Classroom1 (Desks)_139
+  - first:
+      213: 2996250982242319673
+    second: Classroom1 (Desks)_140
+  - first:
+      213: 2485999841826758836
+    second: Classroom1 (Desks)_141
+  - first:
+      213: 4411327716117789969
+    second: Classroom1 (Desks)_142
+  - first:
+      213: 8113850953496106611
+    second: Classroom1 (Desks)_143
+  - first:
+      213: 5922812582961229350
+    second: Classroom1 (Desks)_144
+  - first:
+      213: 830956952695843508
+    second: Classroom1 (Desks)_145
+  - first:
+      213: 7547451566301069815
+    second: Classroom1 (Desks)_146
+  - first:
+      213: 5744463273520061484
+    second: Classroom1 (Desks)_147
+  - first:
+      213: -5116684307823188605
+    second: Classroom1 (Desks)_148
+  - first:
+      213: -2799239252222604750
+    second: Classroom1 (Desks)_149
+  - first:
+      213: -46970350323586240
+    second: Classroom1 (Desks)_150
+  - first:
+      213: 5371877821381008408
+    second: Classroom1 (Desks)_151
+  - first:
+      213: 6943621520011006602
+    second: Classroom1 (Desks)_152
+  - first:
+      213: 8464781577910064001
+    second: Classroom1 (Desks)_153
+  - first:
+      213: 2106029632032805675
+    second: Classroom1 (Desks)_154
+  - first:
+      213: -4990878709951662951
+    second: Classroom1 (Desks)_155
+  - first:
+      213: 3249455966170297394
+    second: Classroom1 (Desks)_156
+  - first:
+      213: -6388630156783091168
+    second: Classroom1 (Desks)_157
+  - first:
+      213: 8356581700756442012
+    second: Classroom1 (Desks)_158
+  - first:
+      213: -8625294196554734100
+    second: Classroom1 (Desks)_159
+  - first:
+      213: 1614939088027017226
+    second: Classroom1 (Desks)_160
+  - first:
+      213: 4202453509256177151
+    second: Classroom1 (Desks)_161
+  - first:
+      213: -8168627030448799070
+    second: Classroom1 (Desks)_162
+  - first:
+      213: -1368018122192408431
+    second: Classroom1 (Desks)_163
+  - first:
+      213: -5241429143124002245
+    second: Classroom1 (Desks)_164
+  - first:
+      213: -4483772904822530111
+    second: Classroom1 (Desks)_165
+  - first:
+      213: -8634854731282471913
+    second: Classroom1 (Desks)_166
+  - first:
+      213: 2773061660841623535
+    second: Classroom1 (Desks)_167
+  - first:
+      213: 6955153989524148223
+    second: Classroom1 (Desks)_168
+  - first:
+      213: 8401138771135776578
+    second: Classroom1 (Desks)_169
+  - first:
+      213: -8730841823468237451
+    second: Classroom1 (Desks)_170
+  - first:
+      213: 2201704823179881869
+    second: Classroom1 (Desks)_171
+  - first:
+      213: 2919118128970801018
+    second: Classroom1 (Desks)_172
+  - first:
+      213: -8059819943961662629
+    second: Classroom1 (Desks)_173
+  - first:
+      213: 2201139917491599679
+    second: Classroom1 (Desks)_174
+  - first:
+      213: 8595409591435172052
+    second: Classroom1 (Desks)_175
+  - first:
+      213: 5557705021596818590
+    second: Classroom1 (Desks)_176
+  - first:
+      213: -8017862627119672199
+    second: Classroom1 (Desks)_177
+  - first:
+      213: 6332375656113094539
+    second: Classroom1 (Desks)_178
+  - first:
+      213: -4217431341178389089
+    second: Classroom1 (Desks)_179
+  - first:
+      213: -5489545050959503172
+    second: Classroom1 (Desks)_180
+  - first:
+      213: -8059316768694582365
+    second: Classroom1 (Desks)_181
+  - first:
+      213: 8879043165380930472
+    second: Classroom1 (Desks)_182
+  - first:
+      213: 1836740387443706552
+    second: Classroom1 (Desks)_183
+  - first:
+      213: 7431866507972007485
+    second: Classroom1 (Desks)_184
+  - first:
+      213: -7638460067104103445
+    second: Classroom1 (Desks)_185
+  - first:
+      213: -3563248155227279742
+    second: Classroom1 (Desks)_186
+  - first:
+      213: -5183852711486180276
+    second: Classroom1 (Desks)_187
+  - first:
+      213: -5582152978750750805
+    second: Classroom1 (Desks)_188
+  - first:
+      213: 6616900211124479932
+    second: Classroom1 (Desks)_189
+  - first:
+      213: -3774344847491565507
+    second: Classroom1 (Desks)_190
+  - first:
+      213: -5937065694305665295
+    second: Classroom1 (Desks)_191
+  - first:
+      213: 8607284017264456799
+    second: Classroom1 (Desks)_192
+  - first:
+      213: -6758134710430647469
+    second: Classroom1 (Desks)_193
+  - first:
+      213: 5191440683550202750
+    second: Classroom1 (Desks)_194
+  - first:
+      213: 564629417459138420
+    second: Classroom1 (Desks)_195
+  - first:
+      213: -1238197992568797301
+    second: Classroom1 (Desks)_196
+  - first:
+      213: -4595321878705737573
+    second: Classroom1 (Desks)_197
+  - first:
+      213: -580241388400812307
+    second: Classroom1 (Desks)_198
+  - first:
+      213: -5164929413308912591
+    second: Classroom1 (Desks)_199
+  - first:
+      213: -4489402409681402874
+    second: Classroom1 (Desks)_200
+  - first:
+      213: 239552027815371660
+    second: Classroom1 (Desks)_201
+  - first:
+      213: -4890476445703041696
+    second: Classroom1 (Desks)_202
+  - first:
+      213: -8088660417045611649
+    second: Classroom1 (Desks)_203
+  - first:
+      213: -5817236367235192192
+    second: Classroom1 (Desks)_204
+  - first:
+      213: 6938117060481156277
+    second: Classroom1 (Desks)_205
+  - first:
+      213: 2692783872936814738
+    second: Classroom1 (Desks)_206
+  - first:
+      213: -2605224732040414607
+    second: Classroom1 (Desks)_207
+  - first:
+      213: -8081534047351645658
+    second: Classroom1 (Desks)_208
+  - first:
+      213: 1568169697844879271
+    second: Classroom1 (Desks)_209
+  - first:
+      213: -7424408316182922680
+    second: Classroom1 (Desks)_210
+  - first:
+      213: 7336112288690322622
+    second: Classroom1 (Desks)_211
+  - first:
+      213: -7985133128829932742
+    second: Classroom1 (Desks)_212
+  - first:
+      213: 6875305104757476827
+    second: Classroom1 (Desks)_213
+  - first:
+      213: -6415695580145862775
+    second: Classroom1 (Desks)_214
+  - first:
+      213: -1514442996433493145
+    second: Classroom1 (Desks)_215
+  - first:
+      213: 4606278213154466915
+    second: Classroom1 (Desks)_216
+  - first:
+      213: 3934812831165911782
+    second: Classroom1 (Desks)_217
+  - first:
+      213: 1722624328208569331
+    second: Classroom1 (Desks)_218
+  - first:
+      213: 6400319499905874885
+    second: Classroom1 (Desks)_219
+  - first:
+      213: 112896641440909601
+    second: Classroom1 (Desks)_220
+  - first:
+      213: -2725552603485259487
+    second: Classroom1 (Desks)_221
+  - first:
+      213: 8756979192217654892
+    second: Classroom1 (Desks)_222
+  - first:
+      213: 5641912609715375319
+    second: Classroom1 (Desks)_223
+  - first:
+      213: 6869024960473831402
+    second: Classroom1 (Desks)_224
+  - first:
+      213: 3669566247781506391
+    second: Classroom1 (Desks)_225
+  - first:
+      213: 7543869138304658176
+    second: Classroom1 (Desks)_226
+  - first:
+      213: -4629271772495367339
+    second: Classroom1 (Desks)_227
+  - first:
+      213: 6395660278067266202
+    second: Classroom1 (Desks)_228
+  - first:
+      213: 5080303348428104030
+    second: Classroom1 (Desks)_229
+  - first:
+      213: 6604115294668183959
+    second: Classroom1 (Desks)_230
+  - first:
+      213: -5336190233584697602
+    second: Classroom1 (Desks)_231
+  - first:
+      213: -3713845258637233942
+    second: Classroom1 (Desks)_232
+  - first:
+      213: -4581126676163075299
+    second: Classroom1 (Desks)_233
+  - first:
+      213: 4196574232059372658
+    second: Classroom1 (Desks)_234
+  - first:
+      213: -617607771828802328
+    second: Classroom1 (Desks)_235
+  - first:
+      213: 7697466647220287544
+    second: Classroom1 (Desks)_236
+  - first:
+      213: 7046754787364329115
+    second: Classroom1 (Desks)_237
+  - first:
+      213: -3662983567161782011
+    second: Classroom1 (Desks)_238
+  - first:
+      213: 1658359325738029644
+    second: Classroom1 (Desks)_239
+  - first:
+      213: 1293367495888657810
+    second: Classroom1 (Desks)_240
+  - first:
+      213: -8450588516318659588
+    second: Classroom1 (Desks)_241
+  - first:
+      213: 8839189118547942255
+    second: Classroom1 (Desks)_242
+  - first:
+      213: -3712469984146312352
+    second: Classroom1 (Desks)_243
+  - first:
+      213: -5713571426891567756
+    second: Classroom1 (Desks)_244
+  - first:
+      213: 1412584642038941736
+    second: Classroom1 (Desks)_245
+  - first:
+      213: -7563079382055932189
+    second: Classroom1 (Desks)_246
+  - first:
+      213: 2113317000054376075
+    second: Classroom1 (Desks)_247
+  - first:
+      213: 8071654723444358215
+    second: Classroom1 (Desks)_248
+  - first:
+      213: -2548281751719412346
+    second: Classroom1 (Desks)_249
+  - first:
+      213: -3343401042589407961
+    second: Classroom1 (Desks)_250
+  - first:
+      213: 1036353063674414320
+    second: Classroom1 (Desks)_251
+  - first:
+      213: -2914128538734984864
+    second: Classroom1 (Desks)_252
+  - first:
+      213: -4290956635741134886
+    second: Classroom1 (Desks)_253
+  - first:
+      213: -2041701202453009428
+    second: Classroom1 (Desks)_254
+  - first:
+      213: -7541185619219509826
+    second: Classroom1 (Desks)_255
+  - first:
+      213: -1895678516836560816
+    second: Classroom1 (Desks)_256
+  - first:
+      213: 1355789435623318840
+    second: Classroom1 (Desks)_257
+  - first:
+      213: 4295107565306686124
+    second: Classroom1 (Desks)_258
+  - first:
+      213: 917278412259049822
+    second: Classroom1 (Desks)_259
+  - first:
+      213: 7948029145061626029
+    second: Classroom1 (Desks)_260
+  - first:
+      213: 1162034703427180320
+    second: Classroom1 (Desks)_261
+  - first:
+      213: 6998178143675320723
+    second: Classroom1 (Desks)_262
+  - first:
+      213: -6652187387882785834
+    second: Classroom1 (Desks)_263
+  - first:
+      213: -2990976701948735791
+    second: Classroom1 (Desks)_264
+  - first:
+      213: -998523350207764070
+    second: Classroom1 (Desks)_265
+  - first:
+      213: -3025918137546947255
+    second: Classroom1 (Desks)_266
+  - first:
+      213: 8787953989110371540
+    second: Classroom1 (Desks)_267
+  - first:
+      213: 4513166072928413283
+    second: Classroom1 (Desks)_268
+  - first:
+      213: -8187801074968759643
+    second: Classroom1 (Desks)_269
+  - first:
+      213: -7860895642474569163
+    second: Classroom1 (Desks)_270
+  - first:
+      213: -1457999438487936131
+    second: Classroom1 (Desks)_271
+  - first:
+      213: 6068080192281111766
+    second: Classroom1 (Desks)_272
+  - first:
+      213: 3552818909888651757
+    second: Classroom1 (Desks)_273
+  - first:
+      213: 7220931159676397368
+    second: Classroom1 (Desks)_274
+  - first:
+      213: 7792640332382970221
+    second: Classroom1 (Desks)_275
+  - first:
+      213: 514703861789977456
+    second: Classroom1 (Desks)_276
+  - first:
+      213: -8523092586647102560
+    second: Classroom1 (Desks)_277
+  - first:
+      213: 1713961835544856217
+    second: Classroom1 (Desks)_278
+  - first:
+      213: -447267915264323542
+    second: Classroom1 (Desks)_279
+  - first:
+      213: -1567283200823457843
+    second: Classroom1 (Desks)_280
+  - first:
+      213: -6333632035996318609
+    second: Classroom1 (Desks)_281
+  - first:
+      213: 8565712020347116146
+    second: Classroom1 (Desks)_282
+  - first:
+      213: 2373601201943242294
+    second: Classroom1 (Desks)_283
+  - first:
+      213: 2206980780620876399
+    second: Classroom1 (Desks)_284
+  - first:
+      213: 5254916421454628858
+    second: Classroom1 (Desks)_285
+  - first:
+      213: 3878523241268648021
+    second: Classroom1 (Desks)_286
+  - first:
+      213: 4038250789064086982
+    second: Classroom1 (Desks)_287
+  - first:
+      213: -5486756320275017112
+    second: Classroom1 (Desks)_288
+  - first:
+      213: -7279907503294799652
+    second: Classroom1 (Desks)_289
+  - first:
+      213: -458621455660424945
+    second: Classroom1 (Desks)_290
+  - first:
+      213: 152655923248585903
+    second: Classroom1 (Desks)_291
+  - first:
+      213: 1676952632250227606
+    second: Classroom1 (Desks)_292
+  - first:
+      213: -1357640626766661127
+    second: Classroom1 (Desks)_293
+  - first:
+      213: 2408603095500297615
+    second: Classroom1 (Desks)_294
+  - first:
+      213: -7224712210847513512
+    second: Classroom1 (Desks)_295
+  - first:
+      213: 7752630894856870551
+    second: Classroom1 (Desks)_296
+  - first:
+      213: 3885860580847321732
+    second: Classroom1 (Desks)_297
+  - first:
+      213: 3862066271531940035
+    second: Classroom1 (Desks)_298
+  - first:
+      213: 3713438276810125571
+    second: Classroom1 (Desks)_299
+  - first:
+      213: -6512830631176991839
+    second: Classroom1 (Desks)_300
+  - first:
+      213: -8268162496849325539
+    second: Classroom1 (Desks)_301
+  - first:
+      213: 8225504825752244126
+    second: Classroom1 (Desks)_302
+  - first:
+      213: -2051962116573092468
+    second: Classroom1 (Desks)_303
+  - first:
+      213: -7775075086898700152
+    second: Classroom1 (Desks)_304
+  - first:
+      213: -3152844119560819311
+    second: Classroom1 (Desks)_305
+  - first:
+      213: 3005828467971758901
+    second: Classroom1 (Desks)_306
+  - first:
+      213: 1864507035196507181
+    second: Classroom1 (Desks)_307
+  - first:
+      213: -6922099864082213037
+    second: Classroom1 (Desks)_308
+  - first:
+      213: 9073658156483649883
+    second: Classroom1 (Desks)_309
+  - first:
+      213: -6260219260683497348
+    second: Classroom1 (Desks)_310
+  - first:
+      213: 2129255255137624346
+    second: Classroom1 (Desks)_311
+  - first:
+      213: 5057322141361060598
+    second: Classroom1 (Desks)_312
+  - first:
+      213: -3259172966736763751
+    second: Classroom1 (Desks)_313
+  - first:
+      213: 1937333384755642866
+    second: Classroom1 (Desks)_314
+  - first:
+      213: -1987987195337757285
+    second: Classroom1 (Desks)_315
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Classroom1 (Desks)_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 923
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27801b474d0a3af20800000000000000
+      internalID: 3432764175337719922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classroom1 (Desks)_1
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 0
+        width: 608
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf904cc006e54c3a0800000000000000
+      internalID: -6646083383467963909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

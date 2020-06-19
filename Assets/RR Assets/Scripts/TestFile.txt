@@ -1,0 +1,93 @@
+FadeBtoC
+Ikuko Hirabayashi
+CharacterPopUp
+Minako Tanaka
+CharacterPopUp
+Kinoyu Akechi
+CharacterPopUp
+UI
+ShowUI
+Camera
+IkukoZoom
+Ikuko Hirabayashi
+Ikuko Fangirl
+So...Who’s hyped for this test skit to come out?!
+Ikuko Pfft
+I am, because I’m in it of course!
+Camera
+KinoyuZoom
+Kinoyu Akechi
+Kinoyu Mood
+Yeah, great…
+Camera
+KtoI
+Ikuko Hirabayashi
+Ikuko Question
+Hm, you disagree?
+Camera
+KinoyuZoom
+Kinoyu Akechi
+Kinoyu Ignorant
+No, I just don’t give a damn.
+Camera
+KtoM
+Minako Tanaka
+Minako Reassurance
+Now, now! Let’s all get along, okay?
+Minako Blossom
+We need to live in harmony if we want to survive the killing game!
+Camera
+MtoK
+Kinoyu Akechi
+Kinoyu Nonchalant
+Although, the game hasn’t started yet.
+Kinoyu Spiteful
+Guess I can ignore you two all I want, huh?
+Camera
+KtoM
+Minako Tanaka
+Minako Hurt
+H-Hey!
+Camera
+MtoI
+Ikuko Hirabayashi
+Ikuko Taunting
+What If...it has started…?
+Ikuko Gleeful
+Hehe!
+Camera
+KinoyuZoom
+Kinoyu Akechi
+Kinoyu Discreet
+Are you implying you’re going to kill me or something?
+Camera
+KtoI
+Ikuko Hirabayashi
+Ikuko Annoyed
+Nah, too much work.
+Minako Tanaka
+Minako Shock
+Camera
+ItoM
+Shake
+Minako Tanaka
+T-that’s your excuse?!
+Camera
+MtoK
+Kinoyu Akechi
+Kinoyu Defensive
+I don’t care what her excuse is, I just want her far away from me.
+Kinoyu F-off
+End the damn skit already, would you?!
+Camera
+KtoI
+Ikuko Hirabayashi
+Ikuko Whiny
+Okay, Okay!
+Ikuko Speechless
+Geez, you’re so lame, Kinoyu! Just end it, bro.
+Camera
+ZoomOut
+UI
+HideUI
+FadeOut

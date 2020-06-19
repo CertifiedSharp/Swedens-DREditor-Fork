@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a77decce4d056d42b697b7c9e71730a, type: 3}
+  m_Name: Ikuko
+  m_EditorClassIdentifier: 
+  translationKey: 
+  LastName: Hirabayashi
+  FirstName: Ikuko
+  DefaultSprite: {fileID: 2800000, guid: f819cc9f4e3987f46af34c8010e07046, type: 3}
+  TrialPortrait: {fileID: 0}
+  Expressions:
+  - Sprite: {fileID: 2100000, guid: 623b7f079babced4ab1468b005fa55cd, type: 2}
+    Name: Gleeful
+  Aliases: []
+  Nameplate: {fileID: 0}
+  Headshot: {fileID: 0}
+  TrialNameplate: {fileID: 0}
+  StudentCard:
+    Talent: 
+    Height: 
+    Weight: 
+    Chest: 
+    BloodType: 
+    DateOfBirth: 
+    Likes: 
+    Dislikes: 
+    Notes: 
+    Color: {r: 1, g: 1, b: 1, a: 1}
